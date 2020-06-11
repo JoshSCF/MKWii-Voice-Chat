@@ -1,4 +1,4 @@
-# MKWii-Voice-Chat
+# mkwii-voice-chat
 **This bot was designed to function in one server. If you intend to use it, you will need to modify the source code.**
 
 **Example of usage:**
